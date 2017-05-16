@@ -1,15 +1,15 @@
 {
   "orientation" : 0,
   "updateDelay" : 0.3,
-  "cachedDeviceHeight" : 900,
+  "cachedDeviceHeight" : 800,
   "contentScale" : 1,
   "fullScreen" : false,
-  "cachedDeviceWidth" : 1440,
+  "cachedDeviceWidth" : 1400,
   "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
 
   },
-  "deviceType" : "apple-macbook-air",
+  "deviceType" : "custom",
   "projectId" : "D8BE0E57-C454-4CC5-A022-22D9B6950C93",
   "deviceOrientation" : 0,
   "selectedHand" : "",

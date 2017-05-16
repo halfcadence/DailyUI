@@ -1,3 +1,9 @@
+# Define and set custom device
+Framer.Device.customize
+	deviceType: Framer.Device.Type.Computer
+	screenWidth: 1400
+	screenHeight: 800
+
 # Import file "002"
 psd3 = Framer.Importer.load("imported/002@1x")
 
