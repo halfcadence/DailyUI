@@ -90,11 +90,12 @@ animB = new Animation Login1,
 		curve: 'spring(200, 15, 10)'
 		
 # fade in
-Popup.fadeIn()
-Email.emailFade()
-Password.passwordFade()
-Login1.loginFade()
-
+Utils.delay 1, ->
+	Popup.fadeIn()
+	Email.emailFade()
+	Password.passwordFade()
+	Login1.loginFade()
+	
 LoginBox.onMouseOver ->
 	animA.start()
 LoginBox.onMouseOut ->
