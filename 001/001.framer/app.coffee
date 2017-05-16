@@ -1,3 +1,13 @@
+# Define and set custom device 
+###Framer.Device.customize
+    deviceType: Framer.Device.Type.Computer
+    screenWidth: 1366
+    screenHeight: 768
+    deviceImage: "http://f.cl.ly/items/001L0v3c1f120t0p2z24/custom.png"
+    deviceImageWidth: 800
+    deviceImageHeight: 1214
+###
+
 # Import file "Daily UI 001"
 sketch = Framer.Importer.load("imported/Daily UI 001@1x")
 {Popup, Email, EmailText, Password, PasswordText, Login1, LoginBox, Notification, X} = sketch
