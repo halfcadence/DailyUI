@@ -2,7 +2,7 @@
 
 My attempt at the Daily UI challenge.
 
-###Gifs 
+### Gifs 
 
 Made by [gifgen](https://github.com/lukechilds/gifgen) in 30 fps:
 
